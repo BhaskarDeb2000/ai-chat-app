@@ -95,7 +95,7 @@ function App() {
       });
 
       if (!response.ok) {
-        throw new Error("Sorry! Server is busy. Please try again later!");
+        throw new Error("Sorry! Server is busy. Please try again later😔😔");
       }
 
       const reader = response.body?.getReader();
