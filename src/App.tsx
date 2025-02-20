@@ -13,8 +13,6 @@ import { Message, APIErrorResponse } from "./type";
 
 import { apiKey, apiUrl, defaultModel } from "./config";
 
-console.log({ apiKey, apiUrl });
-
 function App() {
   const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState("");

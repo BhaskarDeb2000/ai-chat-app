@@ -24,7 +24,7 @@ This is a React-based chat app that connects to an AI model to handle real-time 
 ## 🌍 Deployed on Vercel
 
 You can check out the live version of the app here:  
-[Live App URL]()
+[Live App URL](https://ai-chat-app-dusky.vercel.app/)
 
 ## ⚙️ Setup and Installation
 
